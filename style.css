@@ -1,0 +1,65 @@
+/*!
+Theme Name: Suchana
+Theme URI: http://coderjibon.com/
+Author: Jibon Roy
+Author URI: http://coderjibon.com/
+Description: Suchana is an online blog, news & magazine dedicated to different categories html template
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: coderjibon
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned.
+
+Themes is based on Underscores https://underscores.me/, (C) 2012-2020 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Landing Page
+ ===============================================
+ 1) Default
+ 2) Header
+ 3) Banner
+ 4) Blog Section
+ 5) Blog Single
+ 6) Instagram
+ 7) Footer
+ 8) About Us
+ 9) Contact us  
+ 10) Error Page
+ 11) Back to Top
+ 12) Shop
+ 13)Faq
+ 14)Coming Soon
+--------------------------------------------------------------*/
+
+
+.ii ul li ul li a .ai{
+	display: none;
+}
+
+a.comment-reply-link{
+	position: relative;
+border: 2px solid #2a2f52;
+padding: 10px 20px 10px;
+color: #2a2f52;
+font-size: 15px;
+letter-spacing: 1px;
+z-index: 1;
+transition: all ease-in-out 0.5s;
+overflow: hidden;
+padding: 3px 15px;
+}
+
+a.comment-reply-link:hover{
+	
+background: #2a2f52;
+height: 100%;
+color: #fff;
+}
