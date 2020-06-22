@@ -1,9 +1,9 @@
-Divi Theme by Coderjibon
+suchana Theme by Coderjibon
 ============================
 
 > Copyright (C) 2020, Coder Jibon, Inc.
 
-https://www.elegantthemes.com/join.php
+https://coderjibon.com
 
  
 Installation
